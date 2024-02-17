@@ -10,4 +10,11 @@
 		"sourceMap": true,
 		"strict": true
 	}
+<<<<<<< HEAD
+=======
+	// Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias and https://kit.svelte.dev/docs/configuration#files
+	//
+	// If you want to overwrite includes/excludes, make sure to copy over the relevant includes/excludes
+	// from the referenced tsconfig.json - TypeScript does not merge them in
+>>>>>>> a525951787c545d4ba2de0123a1f292f8b1edf88
 }
